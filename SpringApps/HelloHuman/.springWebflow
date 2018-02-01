@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webflow-project-description>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.2.201712210913-RELEASE]]></pluginVersion>
+	<configs>
+		<config>
+			<file>src/main/index.jsp.xml</file>
+			<name><![CDATA[index.jsp]]></name>
+			<beans-config><![CDATA[1:BeansModel|2:HelloHuman|3:java:com.codingdojo.secondweek.hellohuman.HelloHumanApplication]]></beans-config>
+		</config>
+	</configs>
+</webflow-project-description>
